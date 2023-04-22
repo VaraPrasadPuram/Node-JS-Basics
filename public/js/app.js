@@ -1,0 +1,1 @@
+console.log('This is client side Javscript file is loaded')
